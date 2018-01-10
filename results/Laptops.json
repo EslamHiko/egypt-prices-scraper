@@ -1,0 +1,2348 @@
+[
+    {
+        "name": "Lenovo Ideapad 700 (i7/16/1TB/NVIDIA/W10) Notebook PC",
+        "price": "15,200 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_700.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 700 (i7/16/1TB/NVidia) Notebook PC",
+        "price": "14,599 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_700.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15-7567 (i7/8/1TB/NVIDIA) Notebook PC",
+        "price": "17,900 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/15_7567.jpg"
+    },
+    {
+        "name": "HP 15-BS038NE Notebook PC",
+        "price": "11,999 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/15-bs035ne.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 320 (i5/4/1TB/NVIDIA) Notebook PC",
+        "price": "8,499 L.E",
+        "store": "CompuScience",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_320_i5.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad V310 (i5/8/500/Radeon R5 M430) Notebook PC",
+        "price": "9,599 L.E",
+        "store": "CompuScience",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-v310.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15-7567 (i7/8/1TB+128SSD/NVIDIA) Notebook PC",
+        "price": "23,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/15_7567.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3567 (i5/4/1TB/R5 M340) Notebook PC",
+        "price": "8,650 L.E",
+        "store": "CompuScience",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3558_notebook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5567 (i7/16/2TB/R7 M440) Notebook PC",
+        "price": "14,099 L.E",
+        "store": "CompuScience",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 320 (AMD/4/1TB) Notebook PC",
+        "price": "4,299 L.E",
+        "store": "CompuScience",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-320.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 320 (i3/4/1TB) Notebook PC",
+        "price": "6,199 L.E",
+        "store": "CompuScience",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-320.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i5/8/1TB/R5 M430) Notebook PC",
+        "price": "8,899 L.E",
+        "store": "CompuScience",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15-7567 (i7/8/1TB/NVIDIA) Notebook PC",
+        "price": "18,499 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/15_7567.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 700 (i7/16/1TB/NVIDIA/W10) Notebook PC",
+        "price": "15,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_700.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 520 (i7/16/2TB/NVIDIA) Notebook PC",
+        "price": "15,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-520.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 520 (i7/8/1TB/NVIDIA) Notebook PC",
+        "price": "13,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-520.jpg"
+    },
+    {
+        "name": "HP 15-BS038NE Notebook PC",
+        "price": "12,199 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/15-bs035ne.jpg"
+    },
+    {
+        "name": "Lenovo ThinkPad E570 (i5/4/500) Notebook PC",
+        "price": "12,499 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo-thinkpad-e570.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad Y700 (i7/16/1TB/NVidia) Notebook PC",
+        "price": "15,199 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_y700.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5567 (i7/8/1TB/R7 M445) Notebook PC",
+        "price": "12,199 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Lenovo Legion Y520 (i7/16/1TB+128G SSD/NVIDIA/W10) Notebook PC",
+        "price": "20,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo-legion-y520.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 510 (i7/8/1TB/NVIDIA) Notebook PC",
+        "price": "13,299 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_510_notebook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 520 (i7/16/2TB/NVIDIA MX150 4GB) Notebook PC",
+        "price": "16,600 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-520.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 700 (i7/16/1TB/NVIDIA/W10) Notebook PC",
+        "price": "15,200 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_700.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 700 (i7/16/1TB/NVidia) Notebook PC",
+        "price": "14,600 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_700.jpg"
+    },
+    {
+        "name": "Lenovo Legion Y520 (i7/16/1TB+256G SSD/NVIDIA/W10) Notebook PC",
+        "price": "25,200 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/lenovo-legion-y520.jpg"
+    },
+    {
+        "name": "HP 15-BS033NE Notebook PC",
+        "price": "6,750 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/hp_15-bs033ne_notebook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 520 (i5/16/2TB/NVIDIA) Notebook PC",
+        "price": "13,300 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_520_i5.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i3/4/1TB) Notebook PC",
+        "price": "6,150 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "HP ProBook 450 G4 (i7/8/1TB/NVIDIAI) Notebook PC",
+        "price": "13,300 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/hp_probook_450_g4.jpg"
+    },
+    {
+        "name": "Lenovo Legion Y520 (i7/16/1TB+256G SSD/NVIDIA/W10) Notebook PC",
+        "price": "25,000 L.E",
+        "store": "Delta Computer Alex",
+        "image": "http://www.egprices.com/images/thumb/lenovo-legion-y520.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 520 (i7/16/2TB/NVIDIA MX150 4GB) Notebook PC",
+        "price": "16,399 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-520.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i5/8/1TB/R5 M430) Notebook PC",
+        "price": "8,750 L.E",
+        "store": "Delta Computer Alex",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "HP ProBook 450 G4 (i5/8/1TB/NVIDIAI) Notebook PC",
+        "price": "11,150 L.E",
+        "store": "Delta Computer Alex",
+        "image": "http://www.egprices.com/images/thumb/hp_probook_450_g4.jpg"
+    },
+    {
+        "name": "HP ProBook 450 G4 (i7/8/1TB/NVIDIAI) Notebook PC",
+        "price": "13,150 L.E",
+        "store": "Delta Computer Alex",
+        "image": "http://www.egprices.com/images/thumb/hp_probook_450_g4.jpg"
+    },
+    {
+        "name": "HP 15-BS036NE Notebook PC (2CT87EA)",
+        "price": "9,999 L.E",
+        "store": "Carrefour",
+        "image": "http://www.egprices.com/images/thumb/hp-15-bs036ne.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i5/8/1TB/R5 M430) Notebook PC",
+        "price": "8,999 L.E",
+        "store": "Carrefour",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "HP 15-BS033NE Notebook PC",
+        "price": "6,999 L.E",
+        "store": "Carrefour",
+        "image": "http://www.egprices.com/images/thumb/hp_15-bs033ne_notebook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i3/4/1TB) Notebook PC",
+        "price": "6,599 L.E",
+        "store": "Carrefour",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3567 (i3/4/500) Notebook PC",
+        "price": "6,499 L.E",
+        "store": "Carrefour",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3558_notebook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (Celeron /4/500) Notebook PC",
+        "price": "4,199 L.E",
+        "store": "Carrefour",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "HP 15-BS035NE Notebook PC",
+        "price": "9,888 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/15-bs035ne.jpg"
+    },
+    {
+        "name": "HP 15-BS036NE Notebook PC (2CT87EA)",
+        "price": "10,399 L.E",
+        "store": "2B Computer",
+        "image": "http://www.egprices.com/images/thumb/hp-15-bs036ne.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad Y700 (i7/16/1TB+128GB SSD/NVidia) Notebook PC",
+        "price": "24,999 L.E",
+        "store": "2B Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_y700.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad Y700 (i7/16/1TB+256GB SSD/NVidia) Notebook PC",
+        "price": "22,999 L.E",
+        "store": "2B Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_y700.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 520 (i7/16/2TB/NVIDIA) Notebook PC",
+        "price": "16,799 L.E",
+        "store": "2B Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-520.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 520 (i5/8/1TB/NVIDIA) Notebook PC",
+        "price": "14,299 L.E",
+        "store": "2B Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_520_i5.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i5/8/1TB/R5 M430) Notebook PC",
+        "price": "9,399 L.E",
+        "store": "2B Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 320 (i7/8/1TB/R7 M530) Notebook PC",
+        "price": "12,450 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-320.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3567 (i7/8/1TB/R5 M340) Notebook PC + Free Bag",
+        "price": "12,399 L.E",
+        "store": "Carrefour",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3558_notebook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 320 (i5/8/1TB/R5 M530) Netbook PC",
+        "price": "10,175 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-320.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3567 (i5/4/1TB/R5 M340) Notebook PC",
+        "price": "9,399 L.E",
+        "store": "2B Computer",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3558_notebook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3567 (i3/4/500) Notebook PC",
+        "price": "6,999 L.E",
+        "store": "2B Computer",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3558_notebook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i3/4/1TB) Notebook PC",
+        "price": "6,799 L.E",
+        "store": "2B Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i3/4/1TB) Notebook PC",
+        "price": "6,150 L.E",
+        "store": "Delta Computer Alex",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5567 (i7/8/1TB/R7 M440) Notebook PC",
+        "price": "11,900 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 310 (i7/8/1TB/NVIDIA) Notebook PC",
+        "price": "11,099 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_310_notbook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 510 (i7/8/1TB/NVIDIA) Notebook PC",
+        "price": "14,999 L.E",
+        "store": "2B Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_510_notebook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (Celeron /4/500) Notebook PC",
+        "price": "4,599 L.E",
+        "store": "2B Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "HP Stream 13-c100ne Notebook PC",
+        "price": "5,199 L.E",
+        "store": "2B Computer",
+        "image": "http://www.egprices.com/images/thumb/hp_stream_notebook_-_13-c100ne.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 700 (i7/16/1TB/NVidia) Notebook PC",
+        "price": "14,999 L.E",
+        "store": "Compu Data Center",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_700.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 520 (i5/16/2TB/NVIDIA) Notebook PC",
+        "price": "13,650 L.E",
+        "store": "Compu Data Center",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_520_i5.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 520 (i7/16/2TB/NVIDIA MX150 4GB) Notebook PC",
+        "price": "17,250 L.E",
+        "store": "Compu Data Center",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-520.jpg"
+    },
+    {
+        "name": "Lenovo Legion Y520 (i7/16/1TB+256G SSD/NVIDIA/W10) Notebook PC",
+        "price": "26,250 L.E",
+        "store": "Compu Data Center",
+        "image": "http://www.egprices.com/images/thumb/lenovo-legion-y520.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i3/4/1TB) Notebook PC",
+        "price": "6,300 L.E",
+        "store": "Compu Data Center",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Legion Y520 (i7/16/1TB+128G SSD/GTX 1060 Ti 6GB/W10) Notebook PC",
+        "price": "26,899 L.E",
+        "store": "CompuScience",
+        "image": "http://www.egprices.com/images/thumb/lenovo-legion-y520.jpg"
+    },
+    {
+        "name": "Lenovo Legion Y720 (i7/16/2TB+256G SSD/NVIDIA) Notebook PC",
+        "price": "28,000 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/legion_y720.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad V310 (i5/4/500/Radeon R5 M430) Notebook PC",
+        "price": "8,500 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-v310.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad V510 (i5/8/1TB/Radeon R5 M430) Notebook PC",
+        "price": "9,600 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/lenovo_v520.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad V510 (i7/8/1TB/Radeon R5 M430) Notebook PC",
+        "price": "10,900 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/lenovo_v520.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad V510 (i5/4/500/Radeon R5 M430) Notebook PC",
+        "price": "8,600 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/lenovo_v520.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 520 (i7/8/1TB/NVIDIA MX150 4GB) Notebook PC",
+        "price": "13,800 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-520.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 520 (i7/8/1TB/NVIDIA 940 4GB) Notebook PC",
+        "price": "13,000 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-520.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 320 (i7- 6500U/8/1TB/NVIDIA) Notebook PC",
+        "price": "10,750 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_320_i7_8_1tb.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 320 (i7-7500U/8/1TB/NVIDIA) Notebook PC",
+        "price": "11,200 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_320_i7_8_1tb.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 320 (i5/4/1TB/NVIDIA) Notebook PC",
+        "price": "8,500 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_320_i5.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5567 (i7/8/2TB/R7 M440) Notebook PC",
+        "price": "12,750 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Lenovo Legion Y520 (i7/16/2TB+256G SSD/NVIDIA) Notebook PC",
+        "price": "22,700 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/lenovo-legion-y520.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i3/4/1TB) Notebook PC",
+        "price": "6,100 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Cherry ZE04D Notebook PC",
+        "price": "2,899 L.E",
+        "store": "CompuScience",
+        "image": "http://www.egprices.com/images/thumb/cherry-ze04d-notebook.jpg"
+    },
+    {
+        "name": "Cherry ZE04G Notebook PC",
+        "price": "2,899 L.E",
+        "store": "CompuScience",
+        "image": "http://www.egprices.com/images/thumb/cherry-ze04g-notebook-pc.jpg"
+    },
+    {
+        "name": "Cherry ZE003 Notebook PC (Black, Red)",
+        "price": "2,399 L.E",
+        "store": "CompuScience",
+        "image": "http://www.egprices.com/images/thumb/cherry_ze003_notebook_pc.jpg"
+    },
+    {
+        "name": "HP 15-BS032NE Notebook PC (2CT82EA)",
+        "price": "6,700 L.E",
+        "store": "MEST",
+        "image": "http://www.egprices.com/images/thumb/15-bs032ne.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad Y700 (i7/16/1TB+128GB SSD/NVidia) Notebook PC",
+        "price": "22,399 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_y700.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 520 (i5/16/2TB/NVIDIA) Notebook PC",
+        "price": "13,666 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_520_i5.jpg"
+    },
+    {
+        "name": "Lenovo E4180 (I7/8/1TB/R5 M330) Notebook PC",
+        "price": "10,599 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_e4070_1.jpg"
+    },
+    {
+        "name": "HP 15-BS033NE Notebook PC",
+        "price": "6,777 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/hp_15-bs033ne_notebook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 320 (i3/4/1TB) Notebook PC",
+        "price": "6,549 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-320.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 320 (AMD/4/1TB) Notebook PC",
+        "price": "4,599 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-320.jpg"
+    },
+    {
+        "name": "HP 255 G6 (AMD E2/4/500/R2) Notebook PC",
+        "price": "4,599 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/hp_255_g6.jpg"
+    },
+    {
+        "name": "HP ProBook 450 G4 (i5/8/1TB/NVIDIAI) Notebook PC",
+        "price": "11,250 L.E",
+        "store": "MEST",
+        "image": "http://www.egprices.com/images/thumb/hp_probook_450_g4.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5567 (i7/8/1TB/R7 M440) Notebook PC",
+        "price": "11,849 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5559 (i7/8/1TB/ATI) Notebook PC",
+        "price": "11,650 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5558 (i5/8/1TB/NVIDIA) Notebook PC",
+        "price": "10,400 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i3/4/1TB/R5 M430) Notebook PC",
+        "price": "6,299 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Legion Y520 (i7/16/1TB+128G SSD/NVIDIA/W10) Notebook PC",
+        "price": "20,999 L.E",
+        "store": "CompuScience",
+        "image": "http://www.egprices.com/images/thumb/lenovo-legion-y520.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3567 (i3/4/500) Notebook PC",
+        "price": "6,500 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3558_notebook_pc.jpg"
+    },
+    {
+        "name": "HP 15-BS035NE Notebook PC",
+        "price": "9,890 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/15-bs035ne.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 320 (AMD/4/1TB) Notebook PC",
+        "price": "4,400 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-320.jpg"
+    },
+    {
+        "name": "HP 15-BS035NE Notebook PC",
+        "price": "10,150 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/15-bs035ne.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3567 (i5/4/1TB/R5 M340) Notebook PC",
+        "price": "8,750 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3558_notebook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3567 (i5/4/500/R5 M340/Linux) Notebook PC",
+        "price": "8,450 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3558_notebook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (Celeron /4/500) Notebook PC",
+        "price": "4,599 L.E",
+        "store": "Raya Shop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 310 (i7/8/1TB/NVIDIA) Notebook PC",
+        "price": "11,650 L.E",
+        "store": "Compu Data Center",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_310_notbook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5567 (i7/8/1TB/R7 M440) Notebook PC",
+        "price": "12,150 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad Y700 (i7/16/1TB+128GB SSD/NVidia) Notebook PC",
+        "price": "18,888 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/lenovo_y700.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15-7567 (I7/16/1TB + 128SSD/NVIDIA) Notebook PC",
+        "price": "21,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/15_7567.jpg"
+    },
+    {
+        "name": "Acer Predator Helios 300 (i7/16/256GB SSD/NVIDIA) Gaming Notebook PC",
+        "price": "28,200 L.E",
+        "store": "El Badr Group",
+        "image": "http://www.egprices.com/images/thumb/acer-predator-helios-300.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5567 (i7/16/2TB/R7 M445/W10) Notebook PC",
+        "price": "16,000 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Cherry ZE001 Notebook PC",
+        "price": "3,299 L.E",
+        "store": "CompuScience",
+        "image": "http://www.egprices.com/images/thumb/cherry_ze001_notebook_pc.jpg"
+    },
+    {
+        "name": "Apple New MacBook 12-inch Retina Display Dual-core 1.1GHz 8GB (256GB) (gold)",
+        "price": "25,900 L.E",
+        "store": "Tradeline Stores",
+        "image": "http://www.egprices.com/images/thumb/apple_new_macbook_gold.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5567 (i7/8/1TB/R7 M445) Notebook PC",
+        "price": "12,150 L.E",
+        "store": "Compu Data Center",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Apple New MacBook 12-inch Retina Display Dual-core 1.2 GHz 8GB (512GB) (gray)",
+        "price": "28,900 L.E",
+        "store": "Tradeline Stores",
+        "image": "http://www.egprices.com/images/thumb/apple_new_macbook_gray.jpg"
+    },
+    {
+        "name": "Lenovo ThinkPad T470 (i5/4/500/W10) Notebook PC",
+        "price": "23,499 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo-thinkpad-t470.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 320 (i3/4/1TB) Notebook PC",
+        "price": "6,250 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-320.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 520 (i7/16/2TB/NVIDIA) Notebook PC",
+        "price": "15,499 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-520.jpg"
+    },
+    {
+        "name": "HP ProBook 450 G4 (i7/8/1TB/NVIDIAI) Notebook PC",
+        "price": "13,499 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/hp_probook_450_g4.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5567 (i7/16/2TB/R7 M440) Notebook PC",
+        "price": "14,000 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 510 (I7/8/1TB/NVIDIA) Notebook PC",
+        "price": "12,888 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_510_notebook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i7/8/1TB/R5 M430) Notebook PC",
+        "price": "10,000 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 520 (i5/8/1TB/NVIDIA) Notebook PC",
+        "price": "11,299 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_520_i5.jpg"
+    },
+    {
+        "name": "HP 15-BS035NE Notebook PC",
+        "price": "9,899 L.E",
+        "store": "CompuScience",
+        "image": "http://www.egprices.com/images/thumb/15-bs035ne.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 520 (i7/8/1TB/NVIDIA) Notebook PC",
+        "price": "13,899 L.E",
+        "store": "CompuScience",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-520.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 520 (i5/16/2TB/NVIDIA) Notebook PC (Gold, Grey)",
+        "price": "13,399 L.E",
+        "store": "CompuScience",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_520_i5.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5567 (i7/8/2TB/R7 M440) Notebook PC",
+        "price": "12,699 L.E",
+        "store": "CompuScience",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i7/8/1TB/R5 M430) Notebook PC",
+        "price": "10,250 L.E",
+        "store": "CompuScience",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 320 (i7/8/1TB/R7 M530) Notebook PC",
+        "price": "10,899 L.E",
+        "store": "CompuScience",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-320.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i5/4/1TB/R5 M430) Notebook PC",
+        "price": "8,099 L.E",
+        "store": "CompuScience",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3567 (i3/4/500) Notebook PC",
+        "price": "6,399 L.E",
+        "store": "CompuScience",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3558_notebook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5567 (i7/8/1TB/R7 M440) Notebook PC",
+        "price": "11,899 L.E",
+        "store": "CompuScience",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 320S (i7/8/512GB SSD/NVidia) Notebook PC",
+        "price": "19,200 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-320s-i7.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i3/4/1TB/R5 M430) Notebook PC",
+        "price": "7,000 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5567 (i5/4/1TB/R7 M440) Notebook PC",
+        "price": "9,200 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "HP 15-BS032NE Notebook PC (2CT82EA)",
+        "price": "7,798 L.E",
+        "store": "CompuMe",
+        "image": "http://www.egprices.com/images/thumb/15-bs032ne.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 320 (i7/8/1TB/R7 M520) Notebook PC",
+        "price": "11,350 L.E",
+        "store": "Delta Computer Alex",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-320.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 310 (i7/8/1TB/NVIDIA) Notebook PC",
+        "price": "11,250 L.E",
+        "store": "Delta Computer Alex",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_310_notbook_pc.jpg"
+    },
+    {
+        "name": "HP 15-BS036NE Notebook PC (2CT87EA)",
+        "price": "11,399 L.E",
+        "store": "CompuMe",
+        "image": "http://www.egprices.com/images/thumb/hp-15-bs036ne.jpg"
+    },
+    {
+        "name": "HP 15-BS035NE Notebook PC",
+        "price": "11,699 L.E",
+        "store": "CompuMe",
+        "image": "http://www.egprices.com/images/thumb/15-bs035ne.jpg"
+    },
+    {
+        "name": "HP 15-BS033NE Notebook PC",
+        "price": "8,299 L.E",
+        "store": "Computer Shop",
+        "image": "http://www.egprices.com/images/thumb/hp_15-bs033ne_notebook_pc.jpg"
+    },
+    {
+        "name": "HP 15-BS032NE Notebook PC (2CT82EA)",
+        "price": "7,799 L.E",
+        "store": "Computer Shop",
+        "image": "http://www.egprices.com/images/thumb/15-bs032ne.jpg"
+    },
+    {
+        "name": "HP 15-BS038NE Notebook PC",
+        "price": "12,250 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/15-bs035ne.jpg"
+    },
+    {
+        "name": "HP ProBook 450 G4 (i5/8/1TB/NVIDIAI) Notebook PC",
+        "price": "10,950 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/hp_probook_450_g4.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3567 (i3/4/500/Linux) Notebook PC",
+        "price": "6,400 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3558_notebook_pc.jpg"
+    },
+    {
+        "name": "HP 255 G6 (AMD E2/4/500/R2) Notebook PC",
+        "price": "4,500 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/hp_255_g6.jpg"
+    },
+    {
+        "name": "Lenovo Legion Y520 (i7/16/1TB+128G SSD/NVIDIA/W10) Notebook PC",
+        "price": "21,000 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/lenovo-legion-y520.jpg"
+    },
+    {
+        "name": "HP 15-AC118NE Notebook PC (P4G48EA)",
+        "price": "5,950 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/hp_15-r253ne.jpg"
+    },
+    {
+        "name": "HP 15-bs095nia Notebook PC",
+        "price": "6,400 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/2cj87ea.jpg"
+    },
+    {
+        "name": "Lenovo ThinkPad T460S (i7/8/256GB SSD/W10) Notebook PC",
+        "price": "34,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_thinkpad_t460.jpg"
+    },
+    {
+        "name": "HP 15-BS033NE Notebook PC",
+        "price": "8,299 L.E",
+        "store": "CompuMe",
+        "image": "http://www.egprices.com/images/thumb/hp_15-bs033ne_notebook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 320 (i7/8/1TB/R7 M530) Notebook PC",
+        "price": "12,399 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-320.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 320 (i5/8/1TB/R5 M530) Netbook PC + Microsoft 1850 Mouse",
+        "price": "9,649 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-320.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3567 (i3/4/1TB/R5 M340) Notebook PC",
+        "price": "7,250 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3558_notebook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3567 (i7/8/1TB/R5 M340) Notebook PC + Free Bag",
+        "price": "11,299 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3558_notebook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5559 (i7/8/1TB/ATI) Notebook PC",
+        "price": "11,950 L.E",
+        "store": "Delta Computer Alex",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Lenovo Legion Y520 (i7/16/2TB+256G SSD/NVIDIA) Notebook PC",
+        "price": "24,499 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo-legion-y520.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5559 (i7/16/2TB/ATI) Notebook PC",
+        "price": "14,800 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i5/8/1TB/R5 M430) Notebook PC",
+        "price": "9,000 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3567 (i7/8/1TB/R5 M340) Notebook PC",
+        "price": "10,750 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3558_notebook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 310 (i5/8/1TB/NVIDIA) Notebook PC",
+        "price": "9,500 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/lenovo_i310_laptop.jpg"
+    },
+    {
+        "name": "Lenovo ThinkPad X260 (i5/4/500/W10) Notebook PC",
+        "price": "23,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_thinkpad_x260.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i5/8/1TB/R5 M430) Notebook PC",
+        "price": "8,399 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad Y700 (i7/16/1TB+128G SSD/NVidia/W10) Notebook PC",
+        "price": "21,499 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_y700.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3567 (i5/4/500/R5 M340) Notebook PC",
+        "price": "8,699 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3558_notebook_pc.jpg"
+    },
+    {
+        "name": "HP 15-BS038NE Notebook PC",
+        "price": "13,599 L.E",
+        "store": "Computer Shop",
+        "image": "http://www.egprices.com/images/thumb/15-bs035ne.jpg"
+    },
+    {
+        "name": "HP 15-BS036NE Notebook PC (2CT87EA)",
+        "price": "11,299 L.E",
+        "store": "Computer Shop",
+        "image": "http://www.egprices.com/images/thumb/hp-15-bs036ne.jpg"
+    },
+    {
+        "name": "HP 15-BS035NE Notebook PC",
+        "price": "11,699 L.E",
+        "store": "Computer Shop",
+        "image": "http://www.egprices.com/images/thumb/15-bs035ne.jpg"
+    },
+    {
+        "name": "Apple MacBook Pro 13-inch Retina Display Dual-core I5 2.9GHz 8GB (256GB)",
+        "price": "38,800 L.E",
+        "store": "Tradeline Stores",
+        "image": "http://www.egprices.com/images/thumb/apple_macbook.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 520 (i5/16/2TB/NVIDIA) Notebook PC",
+        "price": "13,500 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_520_i5.jpg"
+    },
+    {
+        "name": "Lenovo ThinkPad E460 (i5/4/500) Notebook PC",
+        "price": "14,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_thinkpad_e460.jpg"
+    },
+    {
+        "name": "Lenovo ThinkPad E460 (i5/4/500/R5 M330) Notebook PC",
+        "price": "15,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_thinkpad_e460.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad I310 (i5/8/1TB/NVIDIA) Notebook PC",
+        "price": "9,799 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_i310_laptop.jpg"
+    },
+    {
+        "name": "Apple MacBook Air 13-inch (Core I5 1.8GHz/8/128GB)",
+        "price": "18,888 L.E",
+        "store": "Tradeline Stores",
+        "image": "http://www.egprices.com/images/thumb/Apple_MacBook_Air.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i5/4/1TB/R5 M430) Notebook PC",
+        "price": "8,999 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5559 (i7/8/1TB/ATI) Notebook PC",
+        "price": "12,200 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "HP ProBook 450 G4 (i5/8/1TB/NVIDIAI) Notebook PC",
+        "price": "11,299 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/hp_probook_450_g4.jpg"
+    },
+    {
+        "name": "HP 255 G5 (AMD E2/4/500/Radeon) Notebook PC",
+        "price": "4,499 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/hp_255_g5.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3567 (i5/6/1TB/R5 M340) Notebook PC",
+        "price": "9,399 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3558_notebook_pc.jpg"
+    },
+    {
+        "name": "HP 250 G5 (i3/4/500) Notebook PC",
+        "price": "6,199 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/hp_655.jpg"
+    },
+    {
+        "name": "HP 15-ay112ne Notebook PC",
+        "price": "12,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/hp_15-ay109ne_notebook_pc.jpg"
+    },
+    {
+        "name": "HP 15-ay108ne Notebook PC",
+        "price": "8,599 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/hp_15-ay109ne_notebook_pc.jpg"
+    },
+    {
+        "name": "HP 15-ay019ne Notebook PC",
+        "price": "6,199 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/hp_15-r253ne.jpg"
+    },
+    {
+        "name": "HP 15-ay020ne Notebook PC",
+        "price": "6,899 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/hp_15-r253ne.jpg"
+    },
+    {
+        "name": "Dell Inspiron 11 3158 (i3/4/500/W10) Convertible Touchscreen Notebook PC",
+        "price": "12,399 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_3148.jpg"
+    },
+    {
+        "name": "HP ProBook 450 G3 (i7/8/1TB/ATI) Notebook PC",
+        "price": "13,499 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/hp_probook_450_g2_.jpg"
+    },
+    {
+        "name": "ASUS X540L-JXX001D Notebook PC",
+        "price": "6,888 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/asus_x540.jpg"
+    },
+    {
+        "name": "ASUS K540LA-XX035D Notebook PC",
+        "price": "5,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/asus_k550ld.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3542 (i5/8/1TB/NVIDIA/W8) Notebook PC",
+        "price": "9,299 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3542_notebook_pc.jpg"
+    },
+    {
+        "name": "HP 255 (E2-7110/4/500/Radeon) Notebook PC",
+        "price": "4,499 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/hp_255_g1.jpg"
+    },
+    {
+        "name": "HP 15-ac125ne Notebook PC",
+        "price": "8,799 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/hp_15-r253ne.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3542 (i5/8/1TB/NVIDIA) Notebook PC",
+        "price": "8,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3542_notebook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i3/4/1TB) Notebook PC",
+        "price": "6,600 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "HP 250 G5 (i3/4/1TB/R5 M330) Notebook PC",
+        "price": "6,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/hp_655.jpg"
+    },
+    {
+        "name": "HP ProBook 450 G3 (i7/8/1TB/ATI) Notebook PC",
+        "price": "12,600 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/hp_probook_450_g2_.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5567 (i5/4/1TB/R7 M440) Notebook PC",
+        "price": "9,500 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3567 (i5/4/500/R5 M340/Linux) Notebook PC",
+        "price": "9,050 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3558_notebook_pc.jpg"
+    },
+    {
+        "name": "ASUS X454Y (AMD/2/500) Notebook PC",
+        "price": "4,099 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/asus_x453sa_notebook.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 320 (i3/4/1TB) Notebook PC",
+        "price": "6,500 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-320.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 320 (AMD/4/1TB) Notebook PC",
+        "price": "4,600 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-320.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15-7567 (I7/16/1TB + 128SSD/NVIDIA) Notebook PC",
+        "price": "20,800 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/15_7567.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad I310 (i5/8/1TB/NVIDIA) Notebook PC",
+        "price": "9,450 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_i310_laptop.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (AMD E1-7010 /4/1TB/Radeon) Notebook PC",
+        "price": "4,200 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Apple MacBook Pro 13-inch Retina Display Dual-core I5 3.1GHz 8GB (256GB)",
+        "price": "40,999 L.E",
+        "store": "Tradeline Stores",
+        "image": "http://www.egprices.com/images/thumb/apple_macbook.jpg"
+    },
+    {
+        "name": "Apple MacBook Pro 13-inch Retina Display Dual-core I5 2.3GHz 8GB (256GB)",
+        "price": "33,999 L.E",
+        "store": "Tradeline Stores",
+        "image": "http://www.egprices.com/images/thumb/apple_macbook.jpg"
+    },
+    {
+        "name": "Apple MacBook Air 13-inch (Core I5 1.8GHz/8/256GB)",
+        "price": "27,499 L.E",
+        "store": "Tradeline Stores",
+        "image": "http://www.egprices.com/images/thumb/Apple_MacBook_Air.jpg"
+    },
+    {
+        "name": "Apple MacBook Pro 13-inch Retina Display Dual-core I5 2.3GHz 8GB (128GB)",
+        "price": "29,699 L.E",
+        "store": "Tradeline Stores",
+        "image": "http://www.egprices.com/images/thumb/apple_macbook.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i3/4/1TB) Notebook PC",
+        "price": "6,100 L.E",
+        "store": "MEST",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "HP 15-ba002ne Notebook PC",
+        "price": "6,199 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/hp_15-ba001ne.jpg"
+    },
+    {
+        "name": "HP 15-ay109ne Notebook PC",
+        "price": "10,299 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/hp_15-ay109ne_notebook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3542 (i3/4/500) Notebook PC",
+        "price": "5,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3542_notebook_pc.jpg"
+    },
+    {
+        "name": "HP 15-ba002ne Notebook PC",
+        "price": "5,750 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/hp_15-ba001ne.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i3/4/1TB/R5 M430) Notebook PC",
+        "price": "6,700 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5559 (i5/8/1TB/ATI) Notebook PC",
+        "price": "9,750 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 320 (i7/8/1TB/R7 M440) Notebook PC",
+        "price": "11,500 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-320.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i5/8/1TB/R5 M430) Notebook PC",
+        "price": "9,350 L.E",
+        "store": "Time Tech",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i3/4/1TB/R5 M430) Notebook PC",
+        "price": "6,850 L.E",
+        "store": "Time Tech",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "HP ProBook 450 G4 (i7/8/1TB/NVIDIAI) Notebook PC",
+        "price": "12,850 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/hp_probook_450_g4.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3567 (i3/4/1TB) Notebook PC",
+        "price": "6,399 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3558_notebook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5559 (i5/8/1TB/ATI) Notebook PC",
+        "price": "9,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Apple MacBook Pro 15-Inch Retina Display Quad-core I7 2.5GHz 16GB (512GB)",
+        "price": "54,899 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/apple_macbook.jpg"
+    },
+    {
+        "name": "Apple MacBook Pro 15-Inch Retina Display Quad-core I7 2.2GHz 16GB (256GB)",
+        "price": "53,000 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/apple_macbook.jpg"
+    },
+    {
+        "name": "Apple MacBook Pro 13 Inch Core I5 2.5GHz",
+        "price": "27,899 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/apple_macbook.jpg"
+    },
+    {
+        "name": "ASUS X540S-XX070D Notebook PC",
+        "price": "4,099 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/asus_x540.jpg"
+    },
+    {
+        "name": "Lenovo Legion Y520 (i7/16/1TB+128G SSD/NVIDIA/W10) Notebook PC",
+        "price": "20,999 L.E",
+        "store": "Brothers for Import",
+        "image": "http://www.egprices.com/images/thumb/lenovo-legion-y520.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 320 (i5/8/1TB/R7 M520) Notebook PC",
+        "price": "9,300 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo-ideapad-320.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (AMD E1-7010 /4/1TB/Radeon) Notebook PC",
+        "price": "4,399 L.E",
+        "store": "Appliance",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "HP Ay070ne Notebook PC",
+        "price": "6,399 L.E",
+        "store": "Appliance",
+        "image": "http://www.egprices.com/images/thumb/hp_15-ay075nia_notebook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3567 (i7/8/1TB/R5 M340) Notebook PC",
+        "price": "10,399 L.E",
+        "store": "Appliance",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3558_notebook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i3/4/1TB) Notebook PC (Black)",
+        "price": "6,399 L.E",
+        "store": "Appliance",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15-7567 (i7/8/1TB + 128SSD/NVIDIA) Notebook PC",
+        "price": "21,499 L.E",
+        "store": "CompuScience",
+        "image": "http://www.egprices.com/images/thumb/15_7567.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3567 (i7/8/1TB/R5 M340) Notebook PC",
+        "price": "10,300 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3558_notebook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 11R 3162 (Celeron/2/32/W10) Notebook PC",
+        "price": "4,040 L.E",
+        "store": "Computer Shop",
+        "image": "http://www.egprices.com/images/thumb/dell-inspiron-11r-3162.jpg"
+    },
+    {
+        "name": "HP 14-am002ne Notebook PC (X5B70EA)",
+        "price": "3,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/hp_14-r203nx.jpg"
+    },
+    {
+        "name": "Lenovo Legion Y520 (i7/16/1TB+128G SSD/NVIDIA/W10) Notebook PC",
+        "price": "21,900 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo-legion-y520.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i5/8/1TB/R5 M430) Notebook PC",
+        "price": "8,500 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "MSI GS706QE (i7/16GB/1TB+128SSD/NVIDIA/W10) Gaming Notebook PC",
+        "price": "27,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/msi_gs706qe.jpg"
+    },
+    {
+        "name": "HP 15-ba002ne Notebook PC",
+        "price": "6,000 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/hp_15-ba001ne.jpg"
+    },
+    {
+        "name": "HP 15-ay020ne Notebook PC",
+        "price": "6,350 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/hp_15-r253ne.jpg"
+    },
+    {
+        "name": "HP 15-BA001NE Notebook PC",
+        "price": "4,250 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/hp_15-ba001ne.jpg"
+    },
+    {
+        "name": "HP 15-BA001NE Notebook PC",
+        "price": "4,355 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/hp_15-ba001ne.jpg"
+    },
+    {
+        "name": "HP 14-am002ne Notebook PC (X5B70EA)",
+        "price": "3,999 L.E",
+        "store": "Collection",
+        "image": "http://www.egprices.com/images/thumb/hp_14-r203nx.jpg"
+    },
+    {
+        "name": "Lenovo ThinkPad Yoga 260 (i7/8/SSD 512 GB/W10) Notebook PC",
+        "price": "35,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo-thinkpad-yoga-260.jpg"
+    },
+    {
+        "name": "Lenovo ThinkPad Yoga 260 (i7/8/SSD 256 GB/W10) Notebook PC",
+        "price": "33,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo-thinkpad-yoga-260.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 510 (i5/8/1TB/NVIDIA) Notebook PC",
+        "price": "12,599 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_510_notebook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5559 (i7/8/1TB/ATI) Notebook PC",
+        "price": "11,666 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Cherry ZE002 Notebook PC",
+        "price": "2,599 L.E",
+        "store": "CompuScience",
+        "image": "http://www.egprices.com/images/thumb/cherry_ze002_notebook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5559 (i5/4/500/ATI) Notebook PC",
+        "price": "8,599 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Apple MacBook Air 11.6-inch/128GB",
+        "price": "23,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/Apple_MacBook_Air.jpg"
+    },
+    {
+        "name": "HP 255 G5 (AMD E2/4/500/Radeon) Notebook PC",
+        "price": "4,495 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/hp_255_g5.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5567 (i7/8/1TB/R7 M445/W10) Notebook PC",
+        "price": "13,950 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (AMD E1-7010 /4/1TB/Radeon) Notebook PC",
+        "price": "4,199 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 100 (i3/4/1TB) Notebook PC",
+        "price": "6,099 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_100.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (Celeron /4/500) Notebook PC",
+        "price": "4,199 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 100 (i3/4/1TB/NVidia) Notebook PC",
+        "price": "6,500 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_100.jpg"
+    },
+    {
+        "name": "Lenovo ThinkPad L460 (i7/8/1TB/R5 M330/W10) Notebook PC",
+        "price": "22,599 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_thinkpad_l460.jpg"
+    },
+    {
+        "name": "Lenovo ThinkPad L460 (i5/4/500/W10) Notebook PC",
+        "price": "19,499 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_thinkpad_l460.jpg"
+    },
+    {
+        "name": "Lenovo E51-80 (i7/8/1TB/ R5 M330/W10) Notebook PC",
+        "price": "15,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_e51-80.jpg"
+    },
+    {
+        "name": "Lenovo E51-80 (i5/8/1TB/ R5 M330) Notebook PC",
+        "price": "13,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_e51-80.jpg"
+    },
+    {
+        "name": "Lenovo E51-80 (i5/4/500/ R5 M330) Notebook PC",
+        "price": "12,899 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_e51-80.jpg"
+    },
+    {
+        "name": "Lenovo E51-80 (i5/4/500) Notebook PC",
+        "price": "11,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_e51-80.jpg"
+    },
+    {
+        "name": "HP 15-af165sa Notebook PC",
+        "price": "6,900 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/hp_15-af165sa_notebook_pc_1.jpg"
+    },
+    {
+        "name": "ASUS X540LJ-XX065D Notebook PC",
+        "price": "5,888 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/asus_x540.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3567 (i3/4/1TB/Linux) Notebook PC",
+        "price": "6,350 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3558_notebook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (i3/4/1TB) Notebook PC",
+        "price": "6,200 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 310 (i5/6/1TB/NVIDIA) Notebook PC",
+        "price": "9,250 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_310_notbook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 310 (i7/8/1TB/NVIDIA) Notebook PC",
+        "price": "11,200 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_310_notbook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 310 (i5/8/1TB/NVIDIA) Notebook PC",
+        "price": "9,200 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_i310_laptop.jpg"
+    },
+    {
+        "name": "ASUS X453SA (Celeron/2/500) Notebook PC",
+        "price": "3,500 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/asus_x453sa_notebook.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5558 (i3/4/500) Notebook PC",
+        "price": "6,150 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "HP ProBook 450 G3 (i7/8/1TB/ATI) Notebook PC",
+        "price": "11,950 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/hp_probook_450_g2_.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad Y700 (i7/12/256GB SSD/NVidia/W10) Notebook PC",
+        "price": "20,400 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/lenovo_y700.jpg"
+    },
+    {
+        "name": "Lenovo ThinkPad Edge E550 (I7/8/1TB/R7 M265) Notebook PC",
+        "price": "24,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_thinkpad_edge_e550.jpg"
+    },
+    {
+        "name": "Dell Inspiron 13 7359 (i7/8/1TB/W10) Convertible Touchscreen Notebook PC",
+        "price": "19,499 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_7347.jpg"
+    },
+    {
+        "name": "Dell Latitude E7450 (i5/8/256GB SSD/Ubuntu ) Notebook PC",
+        "price": "39,000 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/dell_latitude_e7450.jpg"
+    },
+    {
+        "name": "Lenovo ThinkPad L560 (i5/4/500/W10) Notebook PC",
+        "price": "19,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_thinkpad_l560.jpg"
+    },
+    {
+        "name": "Dell Latitude E7470 (i7/8/256GB SSD/Ubuntu ) Notebook PC",
+        "price": "33,000 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/dell_latitude_e7470.jpg"
+    },
+    {
+        "name": "Dell Latitude E5550 (i7/8/500/NVIDIA-2GB/Ubuntu) Notebook PC",
+        "price": "32,000 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/dell_latitude_e5440.jpg"
+    },
+    {
+        "name": "Apple MacBook Air 13-inch (Core I5 1.6GHz/8/256GB)",
+        "price": "33,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/Apple_MacBook_Air.jpg"
+    },
+    {
+        "name": "Apple MacBook Air 13-inch (Core I5 1.6GHz/8/128GB)",
+        "price": "27,699 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/Apple_MacBook_Air.jpg"
+    },
+    {
+        "name": "Apple MacBook Air 11-inch/256GB (Core I5 1.6GHz)",
+        "price": "24,499 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/Apple_MacBook_Air.jpg"
+    },
+    {
+        "name": "HP 15-ba054sa Notebook PC",
+        "price": "6,500 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/hp_15-ay109ne_notebook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (AMD E1-7010 /4/1TB/Radeon) Notebook PC",
+        "price": "4,250 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3558 (i5/4/500/NVIDIA) Notebook PC",
+        "price": "8,599 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3558_notebook_pc.jpg"
+    },
+    {
+        "name": "Dell Latitude E7450 (i7/8/256GB SSD/Ubuntu ) Notebook PC",
+        "price": "39,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/dell_latitude_e7450.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5558 (i3/4/500) Notebook PC",
+        "price": "5,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Lenovo V110 (i3/4/500/W10) Notebook PC",
+        "price": "6,350 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/lenovo_v110.jpg"
+    },
+    {
+        "name": "HP 15-ay019ne Notebook PC",
+        "price": "6,099 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/hp_15-r253ne.jpg"
+    },
+    {
+        "name": "HP ENVY 15-AH150SA Notebook PC",
+        "price": "8,850 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/hp-envy-15-ah150sa.jpg"
+    },
+    {
+        "name": "Lenovo G5045 (AMD/4/500/ATI) Notebook PC",
+        "price": "3,850 L.E",
+        "store": "MEST",
+        "image": "http://www.egprices.com/images/thumb/lenovo_g5030_celeron_2_500_notebook_pc_black.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 100 (Celeron/4/500) Netbook PC",
+        "price": "3,999 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_100.jpg"
+    },
+    {
+        "name": "Dell Inspiron 13 7359 (i5/4/500/W10) Convertible Touchscreen Notebook PC",
+        "price": "14,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_7347.jpg"
+    },
+    {
+        "name": "ASUS X540S-XX002D Notebook PC",
+        "price": "3,499 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/asus_x540.jpg"
+    },
+    {
+        "name": "Lenovo Y5070 (i7/16/1TB/GTX860M/W8) Notebook PC",
+        "price": "18,499 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/lenovo_y5070_notebook_pc_black.jpg"
+    },
+    {
+        "name": "Dell Latitude E7270 (i5/8/256GBSSD) Notebook PC",
+        "price": "36,499 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/dell_latitude_e7270.jpg"
+    },
+    {
+        "name": "Dell Latitude E7270 (i5/8/256GBSSD) Notebook PC",
+        "price": "33,999 L.E",
+        "store": "Egypt Laptop",
+        "image": "http://www.egprices.com/images/thumb/dell_latitude_e7270.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (AMD E1-7010 /4/1TB/Radeon) Notebook PC",
+        "price": "4,299 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 100 (i3/4/1TB/NVidia) Notebook PC",
+        "price": "6,799 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_100.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5559 (i5/4/500/ATI) Notebook PC",
+        "price": "8,125 L.E",
+        "store": "Compu Smart",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5559 (i7/8/1TB/ATI) Notebook PC",
+        "price": "11,750 L.E",
+        "store": "Compu Smart",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3552 (Celeron/4/500) Notebook PC",
+        "price": "4,250 L.E",
+        "store": "Compu Trade",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3542_notebook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5559 (i5/4/500/ATI) Notebook PC",
+        "price": "8,125 L.E",
+        "store": "Compu Trade",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5558 (i3/4/500) Notebook PC",
+        "price": "5,700 L.E",
+        "store": "Compu Trade",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5559 (i7/8/1TB/ATI) Notebook PC",
+        "price": "11,750 L.E",
+        "store": "Compu Trade",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3552 (Celeron/4/500) Notebook PC",
+        "price": "4,250 L.E",
+        "store": "Compu Smart",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3542_notebook_pc.jpg"
+    },
+    {
+        "name": "ASUS X540SA (Celeron/2/500) Notebook PC",
+        "price": "3,600 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/asus_x540.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3542 (i3/4/1TB) Notebook PC",
+        "price": "5,500 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3542_notebook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (Celeron /4/500) Notebook PC",
+        "price": "3,599 L.E",
+        "store": "MEST",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 510 (i7/8/1TB+8SSD/NVIDIA) Notebook PC",
+        "price": "12,500 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_510_notebook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3558 (i5/4/500/NVIDIA) Notebook PC",
+        "price": "7,300 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3558_notebook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3542 (i3/4/500/NVIDIA) Notebook PC",
+        "price": "6,100 L.E",
+        "store": "Compu Trade",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3542_notebook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5559 (i5/4/500/R5 M335 4G) Notebook PC",
+        "price": "8,300 L.E",
+        "store": "Compu Trade",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 100 (i3/4/1TB) Notebook PC",
+        "price": "5,600 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_100.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5559 (i5/4/500/R5 M335 4G) Notebook PC",
+        "price": "9,200 L.E",
+        "store": "Compu Smart",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3542 (i3/4/500/NVIDIA) Notebook PC",
+        "price": "5,250 L.E",
+        "store": "Compu Smart",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3542_notebook_pc.jpg"
+    },
+    {
+        "name": "HP ProBook 450 G3 (i5/8/1TB/ATI) Notebook PC",
+        "price": "8,900 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/hp_probook_450_g2_.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3542 (i3/4/500) Notebook PC",
+        "price": "4,750 L.E",
+        "store": "Compu Smart",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3542_notebook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5558 (i5/4/500/NVIDIA) Notebook PC",
+        "price": "5,400 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "HP ProBook 450 G2 (i5/6/750/Radeon) Notebook PC",
+        "price": "5,500 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/hp_probook_450_g2_.jpg"
+    },
+    {
+        "name": "HP ProBook 450 G2 (i7/8/1TB/ATI) Notebook PC",
+        "price": "7,300 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/hp_probook_450_notebook_pc.jpg"
+    },
+    {
+        "name": "HP ProBook 450 G3 (i5/8/1TB/ATI) Notebook PC",
+        "price": "6,100 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/hp_probook_450_g2_.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5559 (i7/8/1TB/ATI) Notebook PC",
+        "price": "8,050 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad Y700 (i7/16/1TB+128G SSD/NVidia/W10) Notebook PC",
+        "price": "15,500 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_y700.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5559 (i7/16/2TB/Radeon/W10) Notebook PC",
+        "price": "9,250 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 500 (i7/8/1TB+8G SSD/ATI) Notebook PC",
+        "price": "7,300 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_500.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3542 (i3/4/500/W8) Notebook PC",
+        "price": "3,800 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3542_notebook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5551 (Pentium/4/500) Notebook PC",
+        "price": "3,000 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5551_notbook.jpg"
+    },
+    {
+        "name": "Lenovo G5045 (AMD/4/500/ATI) Notebook PC",
+        "price": "2,700 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_g5030_celeron_2_500_notebook_pc_black.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 500 (i5/8/1TB+8G SSD/ATI) Notebook PC (Black)",
+        "price": "6,200 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_500.jpg"
+    },
+    {
+        "name": "Lenovo G5135 (AMD E1-7010 /4/500) Notebook PC",
+        "price": "2,550 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_g5030_celeron_2_500_notebook_pc_black.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (AMD E1-7010 /4/500) Notebook PC",
+        "price": "2,650 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 310 (i7/8/1TB/NVIDIA) Notebook PC",
+        "price": "7,350 L.E",
+        "store": "Compu Smart",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_310_notbook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3543 (i5/4/500/NVIDIA) Notebook PC",
+        "price": "5,350 L.E",
+        "store": "Compu Smart",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3542_notebook_pc.jpg"
+    },
+    {
+        "name": "HP 255 (E2-7110/4/500) Notebook PC",
+        "price": "3,000 L.E",
+        "store": "Compu Smart",
+        "image": "http://www.egprices.com/images/thumb/hp_255_g1.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 310 (i5/4/500GB/NVIDIA) Notebook PC",
+        "price": "5,450 L.E",
+        "store": "Compu Smart",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_310_notbook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3543 (i5/4/500/NVIDIA) Notebook PC",
+        "price": "5,350 L.E",
+        "store": "Compu Trade",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3542_notebook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3542 (i3/4/500) Notebook PC",
+        "price": "3,825 L.E",
+        "store": "Compu Trade",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3542_notebook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5559 (i7/16/2TB/ATI/W10) Notebook PC",
+        "price": "9,500 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 310 (i7/8/1TB/NVIDIA) Notebook PC",
+        "price": "7,350 L.E",
+        "store": "Compu Trade",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_310_notbook_pc.jpg"
+    },
+    {
+        "name": "HP ProBook 450 G2 (i5/6/1TB/ATI) Notebook PC (K9K68EA)",
+        "price": "5,800 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/hp_probook_450_g2_.jpg"
+    },
+    {
+        "name": "Acer Aspire E5-573G (i3/4/500) Notebook PC",
+        "price": "3,100 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/acer_aspire_e5-571g.jpg"
+    },
+    {
+        "name": "HP 255 (E2-7110/4/500) Notebook PC",
+        "price": "3,000 L.E",
+        "store": "Compu Trade",
+        "image": "http://www.egprices.com/images/thumb/hp_255_g1.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 310 (i5/4/500GB/NVIDIA) Notebook PC",
+        "price": "5,450 L.E",
+        "store": "Compu Trade",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_310_notbook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (AMD A8-7410/8/1TB) Notebook PC",
+        "price": "4,450 L.E",
+        "store": "Compu Trade",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 110 (AMD E1-7010 /2/500) Notebook PC",
+        "price": "2,800 L.E",
+        "store": "Compu Trade",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_110_e1-7010__netbook_pc.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 500 (i7/8/1TB+8G SSD/ATI) Notebook PC",
+        "price": "7,200 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_500.jpg"
+    },
+    {
+        "name": "HP 250 G3 (i3/4/500) Notebook PC",
+        "price": "3,550 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/hp_655.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3542 (i5/4/500/NVIDIA) Notebook PC",
+        "price": "4,750 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3542_notebook_pc.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3542 (Celeron/4/500) Notebook PC",
+        "price": "2,750 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3542_notebook_pc.jpg"
+    },
+    {
+        "name": "HP 250 G4 (i3/4/1TB/Radeon) Notebook PC",
+        "price": "3,900 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/hp_655.jpg"
+    },
+    {
+        "name": "HP ProBook 350 G1 (i7/8/1TB/ATI) Notebook PC",
+        "price": "5,750 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/hp_350_g1.jpg"
+    },
+    {
+        "name": "Acer Chromebook (Celeron/2/16/Chrome OS) Notebook PC (CB3-111-C670)",
+        "price": "1,750 L.E",
+        "store": "El Badr Group",
+        "image": "http://www.egprices.com/images/thumb/cb3-111-c670.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3542 (i3/4/500) Notebook PC",
+        "price": "3,250 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3542_notebook_pc.jpg"
+    },
+    {
+        "name": "Lenovo G5080 (I3/4/500) Notebook PC",
+        "price": "3,250 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_g5030_celeron_2_500_notebook_pc_black.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 300 (Celeron/2/500) Netbook PC",
+        "price": "2,340 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_300.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5558 (i3/4/500) Notebook PC",
+        "price": "3,425 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Lenovo G5045 (AMD/6/1TB/Radeon) Notebook PC",
+        "price": "3,900 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_g5030_celeron_2_500_notebook_pc_black.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 305 (I3/4/500) Netbook PC",
+        "price": "3,250 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_305.jpg"
+    },
+    {
+        "name": "Lenovo Z5170 (i7/8/1TB+8GBSSD/Radeon) Notebook PC",
+        "price": "6,700 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_z5070_notebook_silver.jpg"
+    },
+    {
+        "name": "HP ProBook 450 G2 (i5/8/1TB/ATI) Notebook PC",
+        "price": "5,750 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/hp_probook_450_g2_.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5558 (i7/8/1TB/NVIDIA) Notebook PC",
+        "price": "7,400 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5558 (i5/8/1TB/NVIDIA) Notebook PC",
+        "price": "5,250 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3542 (i3/4/500/W8) Notebook PC",
+        "price": "3,500 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3542_notebook_pc.jpg"
+    },
+    {
+        "name": "HP ProBook 450 G2 (i7/8/1TB/ATI) Notebook PC (J4S97EA)",
+        "price": "7,000 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/hp_probook_450_g2_j4s97ea.jpg"
+    },
+    {
+        "name": "Lenovo Ideapad 300 (i5/6/1TB/R5 M330) Notebook PC",
+        "price": "4,700 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_300.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 3541 (AMD E1-6010 /2/500) Notebook PC",
+        "price": "2,650 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_3541.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5558 (i5/8/1TB/NVIDIA) Notebook PC",
+        "price": "4,999 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Dell Inspiron 15R 5558 (i5/6/1TB/NVIDIA) Notebook PC",
+        "price": "4,850 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/dell_inspiron_15r_5558_notbook.jpg"
+    },
+    {
+        "name": "Lenovo G5030 (Celeron/4/500) Notebook PC",
+        "price": "2,340 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/lenovo_g5030_celeron_2_500_notebook_pc_black.jpg"
+    },
+    {
+        "name": "HP 15-ac120ne Notebook PC",
+        "price": "3,550 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/hp_15-r253ne.jpg"
+    },
+    {
+        "name": "HP 15-AC118NE Notebook PC (P4G48EA)",
+        "price": "3,250 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/hp_15-r253ne.jpg"
+    },
+    {
+        "name": "Lenovo Z5170 (i5/8/1TB/Radeon) Notebook PC",
+        "price": "5,500 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_z5070_notebook_silver.jpg"
+    },
+    {
+        "name": "Lenovo Z5170 (i5/8/1TB/Radeon) Notebook PC",
+        "price": "5,500 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_ideapad_z5070_notebook_silver.jpg"
+    },
+    {
+        "name": "Lenovo G5030 (Celeron/4/500) Notebook PC",
+        "price": "2,350 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_g5030_celeron_2_500_notebook_pc_black.jpg"
+    },
+    {
+        "name": "Lenovo G5080 (I5/6/1TB/ATI) Notebook PC",
+        "price": "4,550 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_g5030_celeron_2_500_notebook_pc_black.jpg"
+    },
+    {
+        "name": "Acer Aspire E5-573G (i5/6/1TB/NVIDIA) Notebook PC",
+        "price": "4,100 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/acer_aspire_e5-571g.jpg"
+    },
+    {
+        "name": "Acer Aspire E5-573G (i3/4/500GB/NVIDIA) Notebook PC",
+        "price": "3,100 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/acer_aspire_e5-571g.jpg"
+    },
+    {
+        "name": "Lenovo G5080 (I3/4/500/ATI) Notebook PC",
+        "price": "3,100 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_g5030_celeron_2_500_notebook_pc_black.jpg"
+    },
+    {
+        "name": "HP ProBook 450 G2 (i5/8/1TB/ATI) Notebook PC",
+        "price": "4,890 L.E",
+        "store": "Compu Smart",
+        "image": "http://www.egprices.com/images/thumb/hp_probook_450_g2_.jpg"
+    },
+    {
+        "name": "HP ProBook 450 G2 (i5/8/1TB/ATI) Notebook PC",
+        "price": "4,900 L.E",
+        "store": "Compu Trade",
+        "image": "http://www.egprices.com/images/thumb/hp_probook_450_g2_.jpg"
+    },
+    {
+        "name": "Lenovo B5045 (AMD/4/500/Radeon) Notebook PC",
+        "price": "3,000 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_b50_black_dos.jpg"
+    },
+    {
+        "name": "Lenovo B5070 (i3/4/500) Notebook PC (Black)",
+        "price": "2,575 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_b50_black_dos.jpg"
+    },
+    {
+        "name": "Lenovo G5070 (I3/4/500) Notebook PC",
+        "price": "2,700 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_g5030_celeron_2_500_notebook_pc_black.jpg"
+    },
+    {
+        "name": "Lenovo G5030 (Celeron/2/500) Notebook PC",
+        "price": "1,800 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_g5030_celeron_2_500_notebook_pc_black.jpg"
+    },
+    {
+        "name": "Lenovo E1030 (Celeron/2/500/W8) Notebook PC",
+        "price": "1,600 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/lenovo_e1030_notebook_pc.jpg"
+    },
+    {
+        "name": "Acer Aspire E1-572G (i5/4/500/NVIDIA) Notebook PC (Black)",
+        "price": "3,500 L.E",
+        "store": "Sigma Computer",
+        "image": "http://www.egprices.com/images/thumb/acer_e1_notebook.jpg"
+    },
+    {
+        "name": "HP 255 G3 (AMD/4/500/ATI) Notebook PC",
+        "price": "2,350 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/hp_255_g1.jpg"
+    },
+    {
+        "name": "Lenovo S2030 (Celeron/2/500/W8) Notebook PC",
+        "price": "2,100 L.E",
+        "store": "Compu Trade",
+        "image": "http://www.egprices.com/images/thumb/lenovo_s2030_notebook_pc.jpg"
+    },
+    {
+        "name": "Lenovo G580 (Celeron/4/500) Notebook PC",
+        "price": "2,240 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/lenovo_g580.jpg"
+    },
+    {
+        "name": "Toshiba Satellite C55-B865 Notebook PC",
+        "price": "3,200 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/toshiba_satellite_c55_white_dos.jpg"
+    },
+    {
+        "name": "ASUS TP500LA-CJ078H Transformer Book Flip Notebook PC",
+        "price": "3,900 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/asus_tp500la-cj076h_transformer_book_flip.jpg"
+    },
+    {
+        "name": "HP 15-g020se Notebook PC",
+        "price": "2,250 L.E",
+        "store": "Compunil",
+        "image": "http://www.egprices.com/images/thumb/hp_15-g001sx.jpg"
+    },
+    {
+        "name": "HP ProBook 450 G2 (i7/8/1TB/ATI) Notebook PC (J4S97EA)",
+        "price": "5,850 L.E",
+        "store": "Compu Trade",
+        "image": "http://www.egprices.com/images/thumb/hp_probook_450_g2_j4s97ea.jpg"
+    }
+]
